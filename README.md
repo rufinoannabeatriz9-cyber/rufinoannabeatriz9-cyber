@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Anna+Beatriz+Rufino+DE+Araújo&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Anna+Beatriz+Rufino+De+Araújo&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 /> <h1 align="center">👩‍💻 Olá, eu sou a Anna Beatriz Rufino De Araújo</h1>
 
