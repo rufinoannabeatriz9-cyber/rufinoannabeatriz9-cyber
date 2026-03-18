@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Anna+Beatriz+Rufino+DE+Araújo&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/> <h1 align="center">👩‍💻 Olá, eu sou a Anna Beatriz Rufino De Araújo</h1>
+/> <h1 align="center">👩‍💻 Olá, eu sou a Anna Beatriz Rufino De Araújo</h1>
 
 <p align="center">
 🎓 Estudante de Desenvolvimento de Sistemas (SENAI) <br>
@@ -86,6 +86,7 @@
 <a href="https://www.linkedin.com/in/anna-beatriz-rufino-de-ara%C3%BAjo-68587b3b0/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"
 
 </div>
 
